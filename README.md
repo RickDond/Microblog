@@ -1,5 +1,5 @@
 # Microblog
-Microblog
+Allow posting messages order descending by date
 
 Tech: MongoDB - Flask
 
