@@ -1,7 +1,7 @@
 # Microblog
 Allow posting messages order descending by date
 
-Tech: MongoDB - Flask
+Tech: HTML- CSS - Flask - Python - MongoDB
 
 Check it out at https://blog-example-cumv.onrender.com/
 
